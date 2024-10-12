@@ -10,10 +10,9 @@ export default {
         gray: "#5A5959",
         yellow: "#FFEAAE",
         dark: "#FCCA3F",
-        orange: "#F820C",
-
+        orange: "#FF820C", // Corrected hex code
+      },
     },
   },
   plugins: [],
 }
-
