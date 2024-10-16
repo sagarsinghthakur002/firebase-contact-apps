@@ -10,7 +10,7 @@ export default {
         gray: "#5A5959",
         yellow: "#FFEAAE",
         dark: "#FCCA3F",
-        orange: "#FF820C", // Corrected hex code
+        orange: "#FF820C",
       },
     },
   },
